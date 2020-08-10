@@ -11,10 +11,5 @@
 			"url": "http://github.com/leafo/heroku-buildpack-lua.git"
 		}
 	],
-	"env": {
-		"UPSTREAM_SERVER": {
-			"description": "URL of upstream server to which all requests should be proxied"
-		}
-	},
-	"stack": "cedar-14"
+	"stack": "heroku-18"
 }
